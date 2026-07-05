@@ -6,8 +6,8 @@
 
 // ── CONFIG — Edit these 3 values only ───────────────────────
 define('MAIN_API_URL',    'http://api.pinbot.shop');   // Main API base URL
-define('MAIN_API_TOKEN',  'your_main_api_token_here'); // Your token for main API
-define('ROUTER_BASE_URL', 'https://yourdomain.com');   // This file's public URL (no trailing slash)
+define('MAIN_API_TOKEN',  'arc_95fb3e23-c6fb-47b3-8f18-2921310a028c'); // Your token for main API
+define('ROUTER_BASE_URL', 'https://router-bal.onrender.com');   // This file's public URL (no trailing slash)
 // ────────────────────────────────────────────────────────────
 
 // ── Routing ──────────────────────────────────────────────────
